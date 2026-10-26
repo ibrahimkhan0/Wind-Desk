@@ -11,7 +11,7 @@ A web app for a day-ahead power buying team. It answers two questions:
 
 Data: Elexon BMRS `FUELHH` (actual, `fuelType=WIND`) and `WINDFOR` (forecast), national level only.
 
-**Live app:** `<ADD VERCEL URL HERE>`  ·  **Video:** `<ADD YOUTUBE LINK HERE>`
+**Live app:** `https://wind-desk-ten.vercel.app/`
 
 ## AI tool disclosure
 AI tools (Claude) were used to assist with parts of the project, including suggesting the file structure and generating some code and tests. I reviewed and inspected the generated output, ran the application and tests, and worked to understand the implementation and how the components fit together.
